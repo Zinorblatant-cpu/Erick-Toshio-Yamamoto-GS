@@ -47,12 +47,12 @@ O projeto foi desenvolvido utilizando a linguagem **Python** e as seguintes bibl
 ### Gráfico de T(t)
 Mostra como a temperatura varia ao longo dos meses.
 
-![Gráfico T(t)](grafico_Tt.png)
+![Gráfico T(t)](Figure_1.png)
 
 ### Gráfico de e(x)
 Demonstra a variação da escala Richter em relação à velocidade.
 
-![Gráfico e(x)](grafico_Ex.png)
+![Gráfico e(x)](Figure_2.png)
 
 ---
 
